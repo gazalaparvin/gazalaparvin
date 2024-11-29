@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gazalaparvin
 - 👀 I’m interested in ...Surfing, reading books, coding
-- 🌱 I’m currently learning ...computer science
+- 🌱 I’m currently learning ...Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...gazalaparvinkhan@gmail.com
 
